@@ -23,7 +23,6 @@
 // Also, n is Odd.
 
 
-
 import java.util.Scanner;
 public class HollowDiamondStarPattern1
 {
