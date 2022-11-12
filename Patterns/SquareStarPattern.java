@@ -19,7 +19,7 @@ public class SquarePattern
 {
     public static Scanner scn = new Scanner(System.in);
 
-    // Square Pattern.
+    // Square Star Pattern.
     public static void squarePattern(int n)
     {
         int nst = n;
