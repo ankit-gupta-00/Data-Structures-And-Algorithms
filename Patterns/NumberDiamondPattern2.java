@@ -16,7 +16,9 @@
 //    1
 
 // Constraints : 
-// n is Odd.
+
+// 1 <= n <= 10
+// Also, n is Odd.
 
 
 import java.util.Scanner;
